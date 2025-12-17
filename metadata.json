@@ -1,0 +1,5 @@
+
+{
+  "name": "Legacy Data Extractor AI",
+  "description": "An AI-powered tool to extract, process, and structure data from legacy text formats into modern JSON. This application demonstrates a full-featured UI for defining schemas, processing data with Gemini, and visualizing the results."
+}
